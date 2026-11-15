@@ -198,7 +198,7 @@ _I am a Computer Science student passionate about learning and exploring softwar
 
 ## Resume
 
-- **Resume**: [View My Resume](./Khush_Bakht_RESUME.pdf)
+- **Resume**: [View My Resume](./KHUSH_BAKHT_RESUME.pdf)
 
 ```python
 class Developer:
