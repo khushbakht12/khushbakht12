@@ -1,196 +1,99 @@
-![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
-
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm KhushBakht! 🇵🇰
-
-## About Me
-
-**Software Engineer | Full Stack Developer & Cloud Architect**
-
-## Tech Stack
-
-<br/>
-<div style="display: flex; flex-wrap: wrap; gap: 8px; align-items: center;">
-<a href="https://go.dev/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=go&theme=dark" width="36" height="36" alt="go" />
+<!-- Replace the GitHub profile username in any future stats widgets only after confirming your username. --><div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:141E30,50:243B55,100:4B6B88&height=210&section=header&text=Khush%20Bakht&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Computer%20Science%20Student%20%7C%20Learning%20by%20Building&descAlignY=61&descSize=16&animation=fadeIn" alt="Khush Bakht profile banner" />  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1100&color=4B6B88&center=true&vCenter=true&width=650&lines=Java+Learner+%7C+OOP+Fundamentals;Exploring+Data+Structures+%26+Databases;Building+small+projects+and+learning+every+day" alt="Typing introduction" />
+  </a>  <p>
+    <a href="mailto:devcode215@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-4B6B88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <img src="https://img.shields.io/badge/Status-Student-243B55?style=for-the-badge" alt="Student" />
+  </p>
+</div>👋 About Me
+Hi! I'm Khush Bakht, a Computer Science student currently in my 5th semester. I'm at the beginning of my software development journey and enjoy turning the concepts I learn in class into small projects. I believe in learning step by step, practising regularly, and improving with every project.
+- 🎓 Degree: Bachelor's in Computer Science
+- 📅 Batch: Fall 2024 – 2028 (Expected Graduation)
+- 💻 Interests: Java programming, Object-Oriented Programming, Data Structures, and databases
+- 🌱 Approach: Learn the fundamentals, practise them, and build something with them
+🧰 Skills & Technologies
+These badges reflect my current level of knowledge. I'm still learning and working to improve my foundations.
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://skillicons.dev/icons?i=java" width="42" alt="Java" /><br />
+        <b>Java</b><br />
+        <sub>Programming fundamentals</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://skillicons.dev/icons?i=python" width="42" alt="Python" /><br />
+        <b>Python</b><br />
+        <sub>Basic knowledge</sub>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://skillicons.dev/icons?i=sqlite" width="42" alt="SQLite" /><br />
+        <b>SQL / SQLite</b><br />
+        <sub>Database fundamentals</sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/OOP-4479A1?style=for-the-badge" alt="OOP" /><br />
+        <b>Object-Oriented Programming</b><br />
+        <sub>Four pillars: encapsulation, abstraction, inheritance, and polymorphism</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/DSA-6C63A8?style=for-the-badge" alt="DSA" /><br />
+        <b>Data Structures & Algorithms</b><br />
+        <sub>Basic concepts and practice</sub>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/NoSQL-4B6B88?style=for-the-badge" alt="NoSQL" /><br />
+        <b>NoSQL Databases</b><br />
+        <sub>Introductory knowledge</sub>
+      </td>
+    </tr>
+  </table>
+</div>🚀 Academic Projects
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦯 Blind Stick</h3>
+      <b>2nd Semester · Hardware Project</b>
+      <p>A hardware-based academic project developed as a supportive mobility concept for visually impaired people.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🌉 Automatic Bridge Lifting System</h3>
+      <b>3rd Semester · Hardware Project</b>
+      <p>A hardware project demonstrating an automatic bridge-lifting mechanism.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>✈️ Airline Management System — OOP</h3>
+      <b>3rd Semester · Java</b>
+      <p>Developed an Airline Management System using Java and the fundamental concepts of Object-Oriented Programming.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛫 Airline Management System — DSA</h3>
+      <b>4th Semester · Java · Queue</b>
+      <p>Extended the Airline Management System project by applying Data Structures concepts, with a queue as the main data structure.</p>
+    </td>
+  </tr>
+</table>🌱 Currently Learning
+- Strengthening Java programming and problem-solving
+- Practising Data Structures and Algorithms
+- Learning the basics of Git and GitHub
+- Exploring web development and Artificial Intelligence fundamentals
+- Improving my understanding of relational and NoSQL databases
+🎯 My Learning Goals
+- Build more projects that apply what I learn in class
+- Write cleaner, more organised code
+- Become more confident with problem-solving
+- Learn how to collaborate on projects using Git and GitHub
+📬 Contact
+<div align="center">
+  <a href="mailto:devcode215@gmail.com">
+    <img src="https://img.shields.io/badge/Email-devcode215%40gmail.com-4B6B88?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Khush Bakht" />
   </a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=python&theme=dark" width="36" height="36" alt="python" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=java&theme=light" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=javascript&theme=dark" width="36" height="36" alt="javascript" />
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=typescript&theme=dark" width="36" height="36" alt="typescript" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=react&theme=dark" width="36" height="36" alt="react" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=fastapi&theme=dark" width="36" height="36" alt="react" />
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redis&theme=dark" width="36" height="36" alt="react" />
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nextjs&theme=dark" width="36" height="36" alt="next.js" />
-  </a>
-  <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=redux&theme=dark" width="36" height="36" alt="redux" />
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tailwind&theme=dark" width="36" height="36" alt="tailwind css" />
-  </a>
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=express&theme=dark" width="36" height="36" alt="express" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="36" height="36" alt="node.js" />
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=flask&theme=dark" width="36" height="36" alt="flask" />
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="36" height="36" alt="firebase" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="36" height="36" alt="mongodb" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=supabase&theme=dark" width="36" height="36" alt="mongodb" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="36" height="36" alt="mysql" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux&theme=dark" width="36" height="36" alt="linux" />
-  </a>
-  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ubuntu&theme=dark" width="36" height="36" alt="ubuntu" />
-  </a>
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bash&theme=dark" width="36" height="36" alt="bash" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=aws&theme=dark" width="36" height="36" alt="aws" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=cloudflare&theme=dark" width="36" height="36" alt="aws" />
-  </a>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=azure&theme=dark" width="36" height="36" alt="aws" />
-  </a>
-  <a href="https://kubernetes.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=kubernetes&theme=dark" width="36" height="36" alt="kubernetes" />
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=docker&theme=dark" width="36" height="36" alt="docker" />
-  </a>
-  <a href="https://www.nginx.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=nginx&theme=dark" width="36" height="36" alt="nginx" />
-  </a>
-  <a href="https://www.ansible.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ansible&theme=dark" width="36" height="36" alt="ansible" />
-  </a>
-  <a href="https://www.terraform.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=terraform&theme=dark" width="36" height="36" alt="terraform" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git&theme=dark" width="36" height="36" alt="git" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github&theme=dark" width="36" height="36" alt="github" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="36" height="36" alt="github" />
-  </a>
-  <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=jenkins&theme=dark" width="36" height="36" alt="jenkins" />
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" width="36" height="36" alt="tensorflow" />
-  </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=pytorch&theme=dark" width="36" height="36" alt="pytorch" />
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=sklearn&theme=dark" width="36" height="36" alt="sklearn" />
-  </a>
-  </div>
-
-## Education
-
-- **Bachelor in Computer Science**
-  - _2025 Current_
-  - **The University of Lahore**
-
-## Bio
-
-_I design and engineer complex software systems with a strong focus on performance, reliability, and scalability. My work involves deep system thinking, careful architectural decisions, and handling edge cases under real-world constraints. I optimize infrastructure, backend logic, and deployments to deliver stable, production-ready solutions that outperform typical implementations in production._
-
-## Experience
-
-- **Most Senior and Solo Developer**
-
-  > _The University of Lahore, 2024 - Now_
-  >
-  > > _Built mission-critical offline-first competitive programming platform with zero-trust security, real-time sync, cryptographic access control system architecture for events access._
-
-
-<hr/>
-
-## 💼 Skills
-
-|  ID | Languages/Skills     | Frameworks/Terms                                           | Links                                                                                                                                                                   |
-| --: | -------------------- | ---------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   1 | **Go**               | NATS JetStream, Temporal\_                                 | [_GO_](https://github.com/MuhammadAliyan10/Go.git)                                                                                                                      |
-|   2 | **Java**             | _OOP, DSA, JavaFX, SQL, Java Swing_                        | [_OOP_](https://github.com/MuhammadAliyan10/Java_Assignment), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                               |
-|   3 | **Java/TypeScript**  | _SSR, SDR, Next, Caching, Hooks_                           | [_MERN Stack_](https://github.com/MuhammadAliyan10/Web_Development), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git)                        |
-|   4 | **Python**           | _Machine Learning, Deep Learning, DSA, Bots, Automation_   | [_Machine Learning & Deep Learning_](https://github.com/MuhammadAliyan10/Machine_Learning), [_DSA_](https://github.com/MuhammadAliyan10/Data_Structures_Algorithms.git) |
-|   5 | **System Architect** | _Rate Limiting, API Gateway, Load Balancer, Caching, VPN,_ | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
-|   6 | **DevOps**           | _AWS, DevOps, Ansible, Jenkins, Terraform, Docker_         | [_Shell Scripting_](https://github.com/MuhammadAliyan10/Sh_Assignment)                                                                                                  |
-|   7 | **Ethical Hacking**  | _Computer Networking, OS, Linux, Ddos Attacks_             | [Ethical Hacking](https://github.com/MuhammadAliyan10/Ethical-Hacking.git)                                                                                              |
-
-<br/>
-<hr/>
-<br/>
-
-## 🌱 Currently Learning
-
-- _Python_
-- _Web Developemnt_
-
-<img src="https://github.com/darsaveli/Mariam/blob/main/1479814528_webarebears.gif" width="390px" align="center">
-
-<br/>
-<hr/>
-<br/>
-
-## Languages
-
-- [x] **Urdu**: _Native Proficiency_
-- [x] **English**: _Proficient/Fluent_
-
-## Contact
-
-- **LinkedIn**: [Muhammad Aliyan](https://www.linkedin.com/in/muhammad-aliyan-1900a7275/)
-- **Email**: aliyannadeem10@gmail.com
-
-## Resume
-
-- **Resume**: [Resume](https://www.canva.com/design/DAG8IwKagDc/IZjSMy7sEsHkbZxlhpZ63g/edit?utm_content=DAG8IwKagDc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Muhammad Aliyan Nadeem"
-        self.status = "Building the future of RPA & Quantum"
-
-    def greet(self):
-        print("Thanks for visiting my profile. Let's build something mission-critical!")
-
-me = Developer()
-me.greet()
-```
+  <br /><br />
+  <i>Thanks for visiting my profile! I'm learning, experimenting, and building one project at a time. ✨</i>
+</div><div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4B6B88,50:243B55,100:141E30&height=100&section=footer" alt="Decorative footer" />
+</div>
