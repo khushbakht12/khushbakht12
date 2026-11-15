@@ -123,7 +123,6 @@
 ## Education
 
 - **Bachelor of Science in Computer Science (BSCS)**
-  - _Fall 2024 – 2028 (Expected Graduation)_
   - **The University of Lahore**
   - _Currently in 5th Semester_
 
