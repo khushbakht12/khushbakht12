@@ -159,8 +159,6 @@ _I am a Computer Science student passionate about learning and exploring softwar
 
 ## 💼 Skills
 
-## 💼 Skills
-
 | ID | Category | Skills & Knowledge |
 |:---:|---|---|
 | 1 | **Programming** | Java, Basic Python |
