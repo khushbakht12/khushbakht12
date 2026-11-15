@@ -1,6 +1,6 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_1.png)
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm KhushBakht! 🇵🇰
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hello, I'm KhushBakht!
 
 ## About Me
 
@@ -195,10 +195,6 @@ _I am a Computer Science student passionate about learning and exploring softwar
 
 - **LinkedIn**: [Khush Bakht](https://www.linkedin.com/in/khush-bakht-0100k2803/)
 - **Email**: devcode215@gmail.com
-
-## Resume
-
-- **Resume**: [View My Resume](./KHUSH_BAKHT_RESUME.pdf)
 
 ```python
 class Developer:
